@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+venv/
+chatbot-env/
+*.log
+nltk_data/
